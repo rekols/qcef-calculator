@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>index.html</file>
+        <file>style.css</file>
+        <file>deepin-calculator.svg</file>
+        <file>math.js</file>
+    </qresource>
+</RCC>
